@@ -25,3 +25,7 @@ cd ..
 
 ## Resources
 - https://reactjs.org/docs/create-a-new-react-app.html
+- https://www.npmjs.com/package/generate-react-cli
+- https://reactjs.org/docs/faq-structure.html
+- https://www.npmjs.com/package/generate-react-cli
+- https://www.w3schools.com/REACT/DEFAULT.ASP
